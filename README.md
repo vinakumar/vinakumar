@@ -19,7 +19,8 @@ Postgraduate in Data Science and Analytics - In Progress
 ⚡ In these last days, I am improving my knowledge in:
 
 Languages
-      
+![image](https://github.com/user-attachments/assets/eb610786-9c0b-4327-afe5-1a33ad153404)
+
 
 Databases
     
