@@ -1,22 +1,16 @@
-# About me
+<h1 align="center">Hi there, I'm Vinay Kumar 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vinay-kumar-980395172/)
 
-  "Graduated in Bachelor in Information System and technical course in Computer Maintenance. I have several experiences in the technology area, such as micro support and maintenance, DBA, IT governance, and as a Full-Stack Developer. Currently, I am focused on my career as a Full-Stack and Mobile Developer. In addition to these goals, I aim to improve my English and in the future start a Postgraduate/Master/Ph.D. with a focus on artificial intelligence."
+[![Twitter URL](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://x.com/VinayCh52324927)
 
-Education
-Bachelor in Information Systems
-Technical Course in Computer Maintenance
-Postgraduate in Artificial Intelligence - In Progress
-Postgraduate in Data Science and Analytics - In Progress
-⚡ In these last days, I am improving my knowledge in:
+
+
+<p align="justify">
+  I am a passionate software engineer with a Bachelor's degree in Computer Applications, specializing in building robust and scalable web applications. On the frontend, I excel in creating dynamic and responsive interfaces using Angular, React, and ASP.NET Core (MVC/Razor Pages). For backend development, I focus on crafting clean, maintainable, and efficient APIs using ASP.NET Core, following Clean Architecture principles.
+
+Driven by a growth mindset, I am constantly evolving as a developer, staying curious, and embracing new technologies to deliver innovative solutions. I thrive on solving complex problems, learning continuously, and contributing to impactful projects.
+</p>
 
 --------------------------------------------------------------------------
 
@@ -44,6 +38,9 @@ Postgraduate in Data Science and Analytics - In Progress
   </a>
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://react.dev/learn">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react-dev" style="vertical-align:top; margin:4px">
   </a>
 </p>
 <br/>
